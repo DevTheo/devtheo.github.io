@@ -1,2 +1,2 @@
 # devtheo.github.io
-Blazor Blug
+Blazor Blog
